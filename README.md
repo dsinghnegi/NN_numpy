@@ -20,7 +20,7 @@ A Simple neural network implementation using Numpy for image classification.
 - Numpy
 
 ## License
-The Apache-2.0 License. Please see the [license file](LICENSE) for more information.
+The MIT License. Please see the [license file](LICENSE) for more information.
 
 ## References
 - [Most Ideas are taken from Andrew Ng course on Deep learning.](https://www.coursera.org/specializations/deep-learning?)
