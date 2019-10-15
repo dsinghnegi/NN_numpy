@@ -1,7 +1,7 @@
 # Neural Network implementation using Numpy
-A Simple neural network implementation using Numpy for image classification. 
+A Simple neural network implementation using Numpy for [image classification].(Numpy_based_image_classification_for_Soybean_crops_dataset.ipynb)
 
-## Dataset used for Demostration
+## Dataset used for Demonstration
 - [Soybean image classification dataset](https://www.kaggle.com/fpeccia/weed-detection-in-soybean-crops)
 
 ![GitHub Logo](/images/data_view.png)
